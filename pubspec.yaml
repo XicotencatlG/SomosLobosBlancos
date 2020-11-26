@@ -1,0 +1,51 @@
+name: lobosblancos
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.14.3+1
+  firebase_core:
+  firebase_database:
+  firebase_auth:
+  firebase_storage:
+  flutter_plugin_pdf_viewer: ^1.0.7
+  flutter_auth_buttons:
+  flutter_launcher_icons:
+  flutter_bloc: 
+  provider:
+  image_picker:  
+  intl:
+  async: 
+  webview_flutter:
+  google_sign_in: 
+  equatable:
+  meta:
+  http:
+  flutter_pdfview:
+  sign_button:
+  url_launcher:
+  
+
+    
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  image_path: 'assets/iconlobosupvt.png'
+  android: true
+  ios: true
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/

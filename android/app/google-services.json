@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "549202145225",
+    "firebase_url": "https://somos-lobos-blancos-f551e.firebaseio.com",
+    "project_id": "somos-lobos-blancos-f551e",
+    "storage_bucket": "somos-lobos-blancos-f551e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549202145225:android:02c3798284611b55030218",
+        "android_client_info": {
+          "package_name": "com.example.lobosblancos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549202145225-e81807qcqk0tiap8172dntj8a9grp4dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lobosblancos",
+            "certificate_hash": "2dce46d31b5ce1c48771f95d20314f483bb6946b"
+          }
+        },
+        {
+          "client_id": "549202145225-tmhvrfpnk1g7hnsb2i88ihkood8o0oh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZ2cBBZzYhm1lr316B1mV5-vFBPT_yWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549202145225-tmhvrfpnk1g7hnsb2i88ihkood8o0oh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549202145225:android:34ba6d251366755e030218",
+        "android_client_info": {
+          "package_name": "com.example.somo_lobos_blancos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549202145225-vt9mtkhonphln5n3sidgem4574ovjq10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.somo_lobos_blancos",
+            "certificate_hash": "2dce46d31b5ce1c48771f95d20314f483bb6946b"
+          }
+        },
+        {
+          "client_id": "549202145225-tmhvrfpnk1g7hnsb2i88ihkood8o0oh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZ2cBBZzYhm1lr316B1mV5-vFBPT_yWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549202145225-tmhvrfpnk1g7hnsb2i88ihkood8o0oh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
